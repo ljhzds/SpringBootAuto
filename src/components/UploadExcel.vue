@@ -19,7 +19,7 @@
 		name: 'UploadExcel',
 		data() {
 			return {
-				templateDownUrl: 'http://127.0.0.1:5000/download/tables.xlsx',
+				templateDownUrl: 'http://119.29.103.193:5000/download/tables.xlsx',
 				downTagHidden: true,
 				codeDownUrl: '#',
 				url: 'http://127.0.0.1:5000/api/upload',
